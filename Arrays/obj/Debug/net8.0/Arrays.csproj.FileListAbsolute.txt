@@ -12,3 +12,4 @@ C:\Users\T-GAMER\Documents\Workspace\CSharp\Arrays\obj\Debug\net8.0\refint\Array
 C:\Users\T-GAMER\Documents\Workspace\CSharp\Arrays\obj\Debug\net8.0\Arrays.pdb
 C:\Users\T-GAMER\Documents\Workspace\CSharp\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
 C:\Users\T-GAMER\Documents\Workspace\CSharp\Arrays\obj\Debug\net8.0\ref\Arrays.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json

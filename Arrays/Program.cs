@@ -15,7 +15,7 @@ class Program
         var arrb = new int[4];
 
         arr[0] = 23;
-        Console.WriteLine(arrb[0]);
+        // Console.WriteLine(arrb[0]);
 
 
         // Console.WriteLine(meuArray[0]);
@@ -34,8 +34,42 @@ class Program
             
         // }
 
-            
+
+        var sumArray = new int[4]{1,1,1,1};
+        Console.WriteLine(intSoma(sumArray));
+
+
+        var maiorArray = new int[4]{1,2,3,25};
+        Console.WriteLine(maiorArray.Max());
+
+        var mediaArray = new float[4]{1,3,5,6};
+        float soma = floatSoma(mediaArray);
+        float len = mediaArray.Length;
+        Console.WriteLine(soma / len);
     } 
+
+    public static int intSoma(int[] sumArray){
+        
+        int soma = 0;
+        foreach(int item in sumArray){
+            soma += item;
+        }
+        return soma;
+    }
+   
+
+    public static float floatSoma(float[] mediaArray)
+    {
+        float soma = 0;
+        foreach (float item in mediaArray)
+        {
+            soma += item;
+        }
+        return soma;
+    }
+
+    
+
 
     public struct Funcionario{
         public int Id{get;set;}
