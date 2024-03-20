@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\bin\Debug\net8.0\Datas.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\bin\Debug\net8.0\Datas.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\bin\Debug\net8.0\Datas.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\bin\Debug\net8.0\Datas.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\bin\Debug\net8.0\Datas.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\refint\Datas.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Datas\obj\Debug\net8.0\ref\Datas.dll

@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\bin\Debug\net8.0\texteditor.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\bin\Debug\net8.0\texteditor.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\bin\Debug\net8.0\texteditor.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\bin\Debug\net8.0\texteditor.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\bin\Debug\net8.0\texteditor.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\refint\texteditor.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\texteditor.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\texteditor\obj\Debug\net8.0\ref\texteditor.dll

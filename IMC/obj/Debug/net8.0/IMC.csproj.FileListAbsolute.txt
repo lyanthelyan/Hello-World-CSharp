@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\bin\Debug\net8.0\IMC.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\bin\Debug\net8.0\IMC.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\bin\Debug\net8.0\IMC.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\bin\Debug\net8.0\IMC.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\bin\Debug\net8.0\IMC.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\refint\IMC.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\IMC.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\IMC\obj\Debug\net8.0\ref\IMC.dll
