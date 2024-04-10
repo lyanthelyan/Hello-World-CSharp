@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\bin\Debug\net8.0\Retangulo.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\bin\Debug\net8.0\Retangulo.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\bin\Debug\net8.0\Retangulo.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\bin\Debug\net8.0\Retangulo.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\bin\Debug\net8.0\Retangulo.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\refint\Retangulo.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\Retangulo.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Retangulo\obj\Debug\net8.0\ref\Retangulo.dll

@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\bin\Debug\net8.0\Boletim.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\bin\Debug\net8.0\Boletim.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\bin\Debug\net8.0\Boletim.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\bin\Debug\net8.0\Boletim.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\bin\Debug\net8.0\Boletim.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\refint\Boletim.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\Boletim.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Boletim\obj\Debug\net8.0\ref\Boletim.dll

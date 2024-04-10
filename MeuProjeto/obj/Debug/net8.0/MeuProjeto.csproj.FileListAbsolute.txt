@@ -12,3 +12,4 @@ C:\Users\T-GAMER\Documents\Workspace\CSharp\MeuProjeto\obj\Debug\net8.0\refint\M
 C:\Users\T-GAMER\Documents\Workspace\CSharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
 C:\Users\T-GAMER\Documents\Workspace\CSharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\T-GAMER\Documents\Workspace\CSharp\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.sourcelink.json

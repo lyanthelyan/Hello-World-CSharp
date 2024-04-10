@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\bin\Debug\net8.0\Funcionario.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\bin\Debug\net8.0\Funcionario.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\bin\Debug\net8.0\Funcionario.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\bin\Debug\net8.0\Funcionario.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\bin\Debug\net8.0\Funcionario.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\refint\Funcionario.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\Funcionario.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\Funcionario\obj\Debug\net8.0\ref\Funcionario.dll

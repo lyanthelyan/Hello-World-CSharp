@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\bin\Debug\net8.0\LerNome.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\bin\Debug\net8.0\LerNome.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\bin\Debug\net8.0\LerNome.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\bin\Debug\net8.0\LerNome.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\bin\Debug\net8.0\LerNome.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\refint\LerNome.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\LerNome.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LerNome\obj\Debug\net8.0\ref\LerNome.dll

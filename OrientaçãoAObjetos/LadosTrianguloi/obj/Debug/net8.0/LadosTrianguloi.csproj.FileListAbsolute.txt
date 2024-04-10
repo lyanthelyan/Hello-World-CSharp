@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\bin\Debug\net8.0\LadosTrianguloi.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\bin\Debug\net8.0\LadosTrianguloi.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\bin\Debug\net8.0\LadosTrianguloi.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\bin\Debug\net8.0\LadosTrianguloi.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\bin\Debug\net8.0\LadosTrianguloi.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\refint\LadosTrianguloi.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\LadosTrianguloi.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\LadosTrianguloi\obj\Debug\net8.0\ref\LadosTrianguloi.dll

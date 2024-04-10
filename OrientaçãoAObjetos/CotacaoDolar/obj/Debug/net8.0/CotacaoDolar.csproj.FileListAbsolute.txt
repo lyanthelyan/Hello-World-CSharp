@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\bin\Debug\net8.0\CotacaoDolar.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\bin\Debug\net8.0\CotacaoDolar.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\bin\Debug\net8.0\CotacaoDolar.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\bin\Debug\net8.0\CotacaoDolar.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\bin\Debug\net8.0\CotacaoDolar.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\refint\CotacaoDolar.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\CotacaoDolar.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\OrientaçãoAObjetos\CotacaoDolar\obj\Debug\net8.0\ref\CotacaoDolar.dll
