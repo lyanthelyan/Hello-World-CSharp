@@ -4,14 +4,20 @@ using System.Globalization;
 class ContaBancaria{
 
     public int NumeroBancario { get; private set;}
-    public string NomeTitular { get; private set; }
+    public string NomeTitular { get; set; }
     public double Saldo { get; private set; }
 
-    public ContaBancaria(int numerobancario, string nometitular, double saldoinicial){
+    public ContaBancaria(int numerobancario, string nometitular){
         NumeroBancario = numerobancario;
         NomeTitular = nometitular;
-        Saldo = saldoinicial;
         
+    }
+    
+    //!Brincando como usar o construtor de 3 argumentos
+    public ContaBancaria( int numerobancario, string nometitular, double saldo) : this(numerobancario, nometitular){
+        Saldo = saldo;
+        //!Em vez de usar o saldo referenciado ao saldoinicial, podemos chamar a função (Depositar(saldo))
+        //? é muito melhor colocar a operação Depositar() pq se alguma regra na operação for mudada não irá mudar no construtor
     }
 
 
@@ -20,7 +26,7 @@ class ContaBancaria{
     }
     
     public double Sacar(double valor){
-        return Saldo -= valor;
+        return Saldo -= valor + 5.0;
     }
     
 

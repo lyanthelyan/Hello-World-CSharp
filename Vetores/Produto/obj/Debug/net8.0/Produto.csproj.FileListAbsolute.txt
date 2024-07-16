@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\bin\Debug\net8.0\Produto.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\bin\Debug\net8.0\Produto.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\bin\Debug\net8.0\Produto.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\bin\Debug\net8.0\Produto.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\bin\Debug\net8.0\Produto.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\refint\Produto.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\Produto.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Vetores\Produto\obj\Debug\net8.0\ref\Produto.dll

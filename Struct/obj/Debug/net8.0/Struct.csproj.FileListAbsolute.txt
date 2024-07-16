@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\bin\Debug\net8.0\Struct.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\bin\Debug\net8.0\Struct.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\bin\Debug\net8.0\Struct.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\bin\Debug\net8.0\Struct.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\refint\Struct.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Struct\obj\Debug\net8.0\ref\Struct.dll

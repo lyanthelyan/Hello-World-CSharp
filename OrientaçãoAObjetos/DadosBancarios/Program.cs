@@ -42,6 +42,7 @@ class Program
         }
         
         ContaBancaria c = new ContaBancaria(numerobancario, nometitular, saldo);
+        
         Console.WriteLine();
         Console.WriteLine("Dados da Conta:");
         Console.WriteLine(c);
@@ -57,7 +58,7 @@ class Program
         Console.WriteLine(c);
         Console.WriteLine();
 
-        Console.Write("Entre um valor para saque: ");
+        Console.Write("Entre um valor para saque (Taxa de 5%): ");
         double saque = double.Parse(Console.ReadLine());
 
         c.Sacar(saque);
