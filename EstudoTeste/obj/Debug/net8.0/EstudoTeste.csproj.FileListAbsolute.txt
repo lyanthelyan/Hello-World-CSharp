@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\bin\Debug\net8.0\EstudoTeste.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\bin\Debug\net8.0\EstudoTeste.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\bin\Debug\net8.0\EstudoTeste.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\bin\Debug\net8.0\EstudoTeste.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\bin\Debug\net8.0\EstudoTeste.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\refint\EstudoTeste.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\EstudoTeste.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\EstudoTeste\obj\Debug\net8.0\ref\EstudoTeste.dll
