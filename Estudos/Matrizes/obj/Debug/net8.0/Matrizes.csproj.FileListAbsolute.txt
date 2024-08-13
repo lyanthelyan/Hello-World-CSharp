@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\bin\Debug\net8.0\Matrizes.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\bin\Debug\net8.0\Matrizes.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\bin\Debug\net8.0\Matrizes.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\bin\Debug\net8.0\Matrizes.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\bin\Debug\net8.0\Matrizes.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\refint\Matrizes.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\Matrizes.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\Matrizes\obj\Debug\net8.0\ref\Matrizes.dll

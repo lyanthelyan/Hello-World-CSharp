@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.exe
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.deps.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.runtimeconfig.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.AssemblyInfo.cs
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.sourcelink.json
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\refint\EnumeracaoComposicao.dll
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.pdb
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\Workspace\CSharp\Estudos\EnumeracaoComposicao\obj\Debug\net8.0\ref\EnumeracaoComposicao.dll

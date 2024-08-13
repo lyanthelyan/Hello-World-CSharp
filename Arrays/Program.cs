@@ -7,9 +7,9 @@ class Program
         Console.Clear();
         var meuArray = new int[5]{12,4,3,2,5};
         
-        var funcionarios = new Funcionario[5];
-        funcionarios[0] = new Funcionario(){Id = 2579, Nome = "Andre"};
-        
+        Funcionario[] funcionarios = new Funcionario[5];
+        funcionarios[0] = new Funcionario{Id = 2579, Nome = "Andre"};
+        Console.WriteLine(funcionarios[0].Id);
         var arr = new int[4];
         // var arrb = arr; //! Arrays são de referencias, então ele não criou uma copia, se mudar o arrb vai mudar o arr, e se mudar o arr vai mudar para o arrb, para criar uma copia, necessita usar o NEW
         var arrb = new int[4];
