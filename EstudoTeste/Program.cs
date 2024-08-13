@@ -8,9 +8,9 @@ class Program
     static void Main()
     {
         Cachorro meuCachorro = new Cachorro("Rex");
-        
-         
 
+
+        Console.WriteLine("Teste");
         meuCachorro.Comer();
         meuCachorro.Dormir();
         Console.WriteLine();
