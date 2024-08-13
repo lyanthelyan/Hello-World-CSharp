@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Substring")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Enumeracao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc652069e9a0c5020e44db2da4f13a8b2dfd6078")]
-[assembly: System.Reflection.AssemblyProductAttribute("Substring")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Substring")]
+[assembly: System.Reflection.AssemblyProductAttribute("Enumeracao")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Enumeracao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
