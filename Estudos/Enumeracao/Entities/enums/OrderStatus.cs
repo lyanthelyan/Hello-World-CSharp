@@ -1,4 +1,4 @@
-namespace Enumeracao.Entites.enums;
+namespace Enumeracao.Entities.enums;
 
 enum OrderStatus : int
 {
